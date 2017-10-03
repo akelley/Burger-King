@@ -1,0 +1,82 @@
+body {
+	background-color: orange;
+}
+
+div.header{
+	position: relative;
+	left: 38%;
+	margin: 10px 0 60px 0;
+}
+
+div.main_banner {
+	color: black;
+	font-size: 2em;
+	font-weight: bolder;
+}
+
+div.for_delivery_sign, div.delivered_sign {
+	border: 2px solid DarkRed;
+	border-radius: 20px;
+	background-color: yellow;
+	color: black;
+	font-size: 2em;
+	font-weight: bolder;
+	padding: 10px 0px;
+	margin: 0;
+	width: 50%;
+	position: relative;
+	top: -55px;
+}
+
+div.delivered_sign {
+	top: -35px;
+}
+
+div.list {
+	padding-top: 0px;
+}
+
+div.for_delivery {
+	padding: 20px;
+	border: 2px solid DarkRed;
+	border-radius: 10px;
+}
+
+div.delivered {
+	border: 2px solid DarkRed;
+	border-radius: 10px;
+}
+
+div.burger_list_item {
+	background-color: LemonChiffon;
+	padding: 10px 40px;
+	border-radius: 10px;
+	margin: 5px;
+	border: 1.5px dashed red;
+}
+
+div.col-lg-3, form {
+	margin: 5px 0px 0px 0px;
+	padding: 0;
+	background-color: 
+}
+
+button.btn-default {
+	background-color: Gainsboro;
+	border: 1px solid black;
+}
+
+button.order-btn {
+	margin: 0px;
+	padding: 5px 40px;
+}
+
+
+div.order_spot {
+	margin: 60px 0;
+}
+
+input.delivered {
+	margin: 20px 0px;
+	background-color: snow;
+}
