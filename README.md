@@ -15,7 +15,7 @@ The demo of the burger eating application can be found [here](https://limitless-
 
 To run the application locally, first clone this repository with the following command:
 
-	git clone git@github.com:akelley/Burger-King.git
+	git clone https://github.com/akelley/Burger-King.git
 	
 Then, install the application dependencies:
 
